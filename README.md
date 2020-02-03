@@ -1,4 +1,4 @@
 # timesheet
 
 Important note.<br>
-VBA-file must be in cp1251-encoding, but github project UTF-8.
+VBA-file must be cp1251-encoded, but github project is in UTF-8.
